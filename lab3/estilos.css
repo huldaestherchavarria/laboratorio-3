@@ -1,0 +1,16 @@
+.card {
+    border: 1px solid #2d0139;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+    color: rgb(126, 6, 186);
+}
+
+.card h2 {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.card p {
+    font-size: 14px;
+}
